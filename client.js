@@ -1,4 +1,7 @@
+
 const secondHand = document.querySelector('.second-hand');
+const secondHand = document.querySelector('.min-hand');
+const secondHand = document.querySelector('.hour-hand');
 
 function setDate() {
   const now = new Date();
